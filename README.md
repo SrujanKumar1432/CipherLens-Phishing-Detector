@@ -62,19 +62,7 @@ runtime = 4.33 seconds
 
 ---
 
-## Screenshots
 
-Screenshots of running the script and sample outputs are provided below.
-
-### 1. Script Output in Terminal
-
-![Screenshot 1 - Script Output](screenshots/screenshot1.png)
-
-### 2. Example Dataset Files
-
-![Screenshot 2 - Dataset CSV](screenshots/screenshot2.png)
-
----
 
 ## Customization
 
